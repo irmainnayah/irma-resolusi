@@ -2,3 +2,4 @@ IRMA RESOLUSI
 - konsisten dalam belajar coding
 - konsisten dalam belajar bahasa inggris
 - ini latihan belajar github
+- belajar HTML & CSS dengan banyak praktik
