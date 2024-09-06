@@ -1,2 +1,2 @@
 # irma-resolusi
-repositori untuk menyimpan rencana irma kedepannya
+Repository untuk menyimpan rencana irma kedepannya
